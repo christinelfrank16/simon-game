@@ -1,4 +1,4 @@
-button {
+.game {
   width: 300px;
   height: 300px;
   font-size: 30px;
@@ -56,4 +56,6 @@ button {
 
 .start{
   text-align: center;
+  font-size: 30px;
+  font-weight: bold;
 }
