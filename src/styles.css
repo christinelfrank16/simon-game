@@ -1,0 +1,59 @@
+button {
+  width: 300px;
+  height: 300px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.row {
+  margin: 10px 0;
+}
+
+.even {
+  text-align: left;
+}
+
+.odd {
+  text-align: right;
+}
+
+#btn1 {
+  background-color: blue;
+}
+
+#btn2 {
+  background-color: red;
+}
+
+#btn3 {
+  background-color: yellow;
+}
+
+#btn4 {
+  background-color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+#startbtn{
+  width: 300px;
+  height: 100px;
+}
+
+.start{
+  text-align: center;
+}
